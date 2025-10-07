@@ -1,0 +1,25 @@
+Machine learning is a subdomain of computer 
+science that focuses on algorithms which help a 
+computer  learn from data without explicit programm
+ing 
+
+AI vs ML vs DS
+AI - Artificial Intelligence
+ML - Machine Learning
+DS - Data Science
+Data Science is a field that attempts to find 
+patterms and drae insights from data 
+
+  Types of Machine Learning 
+  Supervised Learning : uses labeled inputs (meaning has corresponding 
+  input has corresponding output label) to train
+  models and learn outputs
+
+  unsupervised learnig: uses unlabeled data to learn
+    patterns and structures from data
+    Reinforcement Learning: uses a system of rewards
+    and punishments to train models to make sequences
+    of decisions
+    agent learning in interactive environment 
+    based on rewards and penalities
+    
